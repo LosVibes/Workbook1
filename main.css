@@ -6,3 +6,7 @@ h1 {
 body {
     background-color: silver;
 }
+p {
+    color: rgb(0, 68, 253);
+    font-size: x-large;
+}
