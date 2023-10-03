@@ -9,4 +9,5 @@ body {
 p {
     color: rgb(0, 68, 253);
     font-size: x-large;
+    font-weight: bold;
 }
