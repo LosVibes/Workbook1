@@ -1,0 +1,12 @@
+table {
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: bolder;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+header nav a {
+    margin-right: 13em;
+}
